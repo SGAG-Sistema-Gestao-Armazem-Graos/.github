@@ -31,29 +31,6 @@ O sistema será baseado em Python com interface via **terminal**, e conterá os 
 
 ---
 
-## 📦 Entidades e Atributos
-
-### 🚚 Caminhão
-
-### 🧺 Grão
-- Tipo (ex: soja, milho, arroz)
-- Unidade de medida
-
-### 🔁 Movimentação
-- Tipo: entrada ou saída
-- Quantidade
-- Data
-- Placa do caminhão
-- Peso bruto, tara, peso líquido
-- Origem/destino
-- Observações
-
-### 📊 Estoque
-- Quantidade disponível por tipo de grão
-- Atualização automática após movimentações
-
----
-
 ## ✅ Funcionalidades Principais
 
 - Captura da **placa do caminhão via OCR**
